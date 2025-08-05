@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.exe
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.deps.json
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.runtimeconfig.json
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.dll
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.pdb
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.AssemblyInfo.cs
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.sourcelink.json
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.dll
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\refint\Ticket Price Calculator.dll
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.pdb
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.genruntimeconfig.cache
+C:\Users\vaio\Desktop\dcit318-assignment1-11115960\Ticket Price Calculator\obj\Debug\net8.0\ref\Ticket Price Calculator.dll
